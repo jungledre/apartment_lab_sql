@@ -45,8 +45,6 @@ Write down the following sql statements that are required to solve the following
 Bonus (this might require you to look up documentation online)
 
 ```
-1. Create a foreign key that references the owner_id in the owners table and forces the constraint ON DELETE NO ACTION. 
-2. Show all of the information from the owners table and the properties table in one joined table.  
-3. In the properties table change the name of the column "name" to "property_name". 
-4. Count the total number of properties where the owner_id is between 1 and 3.
+1. In the properties table change the name of the column "name" to "property_name". 
+2. Count the total number of properties where the owner_id is between 1 and 3.
 ```
